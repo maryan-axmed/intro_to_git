@@ -24,3 +24,14 @@ This cheatsheet will run through the Git commands used in the terminal.
 
 
 # Extension: .gitignore
+When you are sharing a code, there may be something you will not want to share e.g. persoal files. 
+<br> You can specify which files you want to ignore using '.gitignore' and git will not track 
+files specified in '.gitignore' </br>
+
+>How to create a '.gitignore' file:
+```
+• Go to your root directory on Git
+• Create a file using the command: "touch .gitignore"
+• Open the file using a text editor 
+• Add the file name of the files you want to be ignored 
+```
