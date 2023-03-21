@@ -12,8 +12,15 @@ This cheatsheet will run through the Git commands used in the terminal.
 * **git add**- add a file(s) to the staging phase 
   * **git add `.`**- add all files from chosen directory to the staging phase
 * **git commit m-"message"**- commit changes, with a message, to the repository
-* **git status**- confirm changes made
+* **git status**- this command does a few things:
+  * lists the files you have made changes to
+  * lists the files you have modified and have yet to add/commit 
 * **git log**- review commits 
+* **git remote add origin <url_of_remote/GitHub_repository>**- connect your remote server to your local repository
+* **git branch <branch>**- create a git branch with any name 
+> NOTE: The default branch name in Git is 'master'. <br> You can view all your branches and change between branches using the 'git branch' and 'git checkout <branchname>', respectively. </br>
+* **git push**- this will push your project from your local repository to your remote repository
+* **git 
 
 
 > nOTE: this makes a highlighted note 
