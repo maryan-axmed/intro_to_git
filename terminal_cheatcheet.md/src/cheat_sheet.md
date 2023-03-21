@@ -19,15 +19,8 @@ This cheatsheet will run through the Git commands used in the terminal.
 * **git remote add origin <url_of_remote/GitHub_repository>**- connect your remote server to your local repository
 * **git branch <branch>**- create a git branch with any name 
 > NOTE: The default branch name in Git is 'master'. <br> You can view all your branches and change between branches using the 'git branch' and 'git checkout <branchname>', respectively. </br>
-* **git push**- this will push your project from your local repository to your remote repository
-* **git 
+* **git push**-push your project from your local repository to your remote repository
+* **git pull**- fetch and merge changes made on the local repository to your remote repository 
 
 
-> nOTE: this makes a highlighted note 
-
-this is an `emphasis` format
-
-```
-Note: Keywords and other important stuff.
-
-```
+# Extension: .gitignore
